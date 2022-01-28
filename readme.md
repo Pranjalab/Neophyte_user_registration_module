@@ -1,7 +1,7 @@
 Steps to run the code:
 
-1. Create a conda environment by running the following command:
-    conda env create -f face_register.yml
+1. Create a environment by running the following command:
+    pip install -r requirements.txt
 
 2. Once the environment is created, activate the env by running the following command
     conda activate face_register
